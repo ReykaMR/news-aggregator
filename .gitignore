@@ -1,0 +1,8 @@
+# Ignore konfigurasi API
+config.php
+
+# Ignore system files
+*.log
+# .DS_Store
+# vendor/
+# node_modules/
