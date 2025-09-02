@@ -20,7 +20,9 @@ NewsHub adalah aplikasi web sederhana untuk menampilkan berita terkini dari berb
   <tr>
     <td><img src="screenshot-aplikasi/foto4.png" alt="Screenshot 4" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto5.png" alt="Screenshot 5" width="100%" height="250"></td>
-    <td><img src="screenshot-aplikasi/foto6.png" alt="Screenshot 6" width="100%" height="250"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="screenshot-aplikasi/foto6.png" alt="Screenshot 6" width="100%" height="250"></td>
   </tr>
 </table>
 
